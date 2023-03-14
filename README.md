@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @idotj
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning about web and multimedia technologies
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me: www.idotj.com
+- 👀 I’m interested in frontend development, accessibility and design
+- 💞️ I’m looking to collaborate with open-source projects
+- 📦 All my repos were moved to GitLab: https://gitlab.com/idotj
+- 📫 If you want to know more about me: www.idotj.com
 
 <!---
 idotj/idotj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
